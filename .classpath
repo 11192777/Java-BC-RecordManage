@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="lib">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="I:/java项目包/jedis-3.1.0-m1.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/Rides数据库/commons-pool2-2.4.2.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/poi-4.1.0/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/poi-4.1.0/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/poi-4.1.0/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/poi-4.1.0/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/poi-4.1.0/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/poi-4.1.0/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/ehcache-1.2.4.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="I:/eclipse/档案管理系统/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/gnujaxp.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="I:/java项目包/servlet-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+ 
+<hibernate-mapping package="pers.qingyu.recordmanage.pojo">
+    <class name="TeacherFile" table="teacher_file">
+       	<id name ="number" column="teacher_number">
+       		<generator class ="assigned"/>
+       	</id>
+        <property name="name" column="teacher_name"/>
+        <property name="sex" column="teacher_sex"/>
+        <property name="nation" column="teacher_nation"/>
+        <property name="major" column="teacher_major"/>
+        <property name="idnumber" column="teacher_idnumber"/>
+        <property name="birthday" column="teacher_birthday"/>
+        <property name="startDate" column="teacher_date"/>
+    </class>
+     
+</hibernate-mapping>
